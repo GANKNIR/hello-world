@@ -1,5 +1,3 @@
 # hello-world
-my practice
-1st commit made by me
+clear everything
 
-as a practice of my session
